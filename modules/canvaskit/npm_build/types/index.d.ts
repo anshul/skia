@@ -2768,7 +2768,7 @@ export interface TextStyle {
     decoration?: number;
     decorationColor?: InputColor;
     decorationThickness?: number;
-    decrationStyle?: DecorationStyle;
+    decorationStyle?: DecorationStyle;
     fontFamilies?: string[];
     fontFeatures?: TextFontFeatures[];
     fontSize?: number;
